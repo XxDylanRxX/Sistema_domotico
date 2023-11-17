@@ -44,9 +44,9 @@ Este es un proyecto de sistema domótico para el hogar utilizando ESP32 y la pla
 2. Reemplaza las siguientes líneas con tu configuración de red WiFi y credenciales Blynk:
 
 ```cpp
-#define BLYNK_TEMPLATE_ID "TMPL29IO9xEIK"
-#define BLYNK_TEMPLATE_NAME "Domótica Hogar Prueba"
-#define BLYNK_AUTH_TOKEN "pSQg5qM_izTycYxLnpdVCWwiF07PdCYJ"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_TEMPLATE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 char ssid[] = "TuSSID";
 char pass[] = "TuContraseña";
